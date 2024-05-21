@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Setting up
 
 - Install Node js
-- Clone the repository `https://github.com/czarjulius/`
+- Clone the repository `https://github.com/czarjulius/quantumrift`
 - Navigate to the location of the folder
 
 ### Backend
