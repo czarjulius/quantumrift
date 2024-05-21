@@ -2,6 +2,9 @@
 
 Build a simple full-stack "Marketplace" web application using React.js for the frontend and Node.js for the backend, with basic blockchain integration.
 
+![Screenshot 2024-05-21 at 11 57 00 AM](https://github.com/czarjulius/quantumrift/assets/23107014/be4c8169-5f3f-45a3-9faf-1e1030b103dc)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
